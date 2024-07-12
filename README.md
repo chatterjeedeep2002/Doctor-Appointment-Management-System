@@ -81,7 +81,11 @@ Our Doctor Appointment Management System offers a robust solution to these probl
 Our Doctor Appointment Management System is more than just a scheduling tool; it's a comprehensive solution designed to transform the way healthcare appointments are managed. By choosing our system, medical practices can enhance their operational efficiency, improve patient satisfaction, and ultimately provide better healthcare services. Let's revolutionize the healthcare experience together.
 
 #### Sample Testing : 
+
 Doctor Login
+
 Username: anu@gmail.com
+
 Password: Test@123
+
 Or Register a new user.
